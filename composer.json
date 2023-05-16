@@ -1,0 +1,15 @@
+{
+    "name": "andre/mvc-project",
+    "authors": [
+        {
+            "name": "Fetante",
+            "email": "andreas.carlssonmunkedal@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
